@@ -20,6 +20,8 @@ public class SumProductAverage
 {
     public static void main(String[] args)
     {
+        Scanner sc = new Scanner(System.in);
+        
         // Prompt for number of runs
         System.out.print("How many times do you want to run the program?  ");
         int runs = sc.nextInt();
