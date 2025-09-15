@@ -13,6 +13,8 @@
  * 5. After processing all n sets, the program ends.
  */
 
+// Re-run autograder
+
 import java.util.Scanner;
 public class SumProductAverage
 {
